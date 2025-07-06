@@ -1,13 +1,17 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+//Ejemplo 1 de costructor simple
 package Taller1.Ejemplos;
 
 /**
  *
- * @author DANI
+ * @author Erick
  */
 public class Persona {
+    String nombre;
+    
+    //Constructor
+    public Persona (){
+        nombre = "Sin nombre";
+    
+    }
     
 }
